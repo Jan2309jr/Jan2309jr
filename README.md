@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Janani Ravi  
+# 👋 Hello, I'm Janani Ravi !
 
 🎓 Computer Science Undergrad | 🤖 Machine Learning Enthusiast | 💻 Aspiring Full-Stack Developer  
 
