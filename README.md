@@ -1,4 +1,4 @@
-<table border="0" width="100%">
+<table>
   <tr>
     <td width="350">
       <img src="./enderman-rizz.gif" width="300" alt="Enderman Rizz">
@@ -15,12 +15,12 @@
 
 ## 📖 About Me:
 
-<table border="0">
+<table border="1">
   <tr>
     <td width="50%">
       <h3>✅ Pros</h3>
       <ul>
-        <li><b>ML Wizard:</b> Can turn messy data into meaningful insights.</li>\
+        <li><b>ML Wizard:</b> Can turn messy data into meaningful insights.</li>
         <li><b>Bug Hunter:</b> Won't sleep until that one extra semi-colon is found.</li>
         <li><b>Learning Machine:</b> Acquires new tech stacks faster than a <code>pip install</code>.</li>
       </ul>
