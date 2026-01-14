@@ -79,32 +79,6 @@
 
 ---
 
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jan2309jr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Janani's GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan2309jr&layout=compact&theme=radical" alt="Janani's Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jan2309jr&theme=radical" alt="Janani's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jan2309jr&theme=radical&layout=compact" alt="WakaTime Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jan2309jr&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
----
-
 ## ⏳ Coding Activity (WakaTime)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[YOUR_USERNAME]&theme=radical&layout=compact" alt="WakaTime" />
@@ -112,43 +86,32 @@
 
 ---
 
-## 📁 Pinned Projects
-| Project One | Project Two |
-| --- | --- |
-| **[Project Name 1]** | **[Project Name 2]** |
-| ✨ Briefly describe the cool ML model you built. | 🌐 A sleek React dashboard or Web App. |
-| [Repo Link](https://github.com/[YOUR_USERNAME]/repo1) | [Repo Link](https://github.com/[YOUR_USERNAME]/repo2) |
-
-| Project Three | Project Four |
-| --- | --- |
-| **[Project Name 3]** | **[Project Name 4]** |
-| 🧠 Deep Learning / Computer Vision project. | 📱 Android Studio / Mobile dev project. |
-| [Repo Link](https://github.com/[YOUR_USERNAME]/repo3) | [Repo Link](https://github.com/[YOUR_USERNAME]/repo4) |
-
----
-
-## ✍️ Latest Blog Posts
-*Stay tuned! My latest thoughts on ML and Web Dev will appear here.*
 ---
 
 ## 🤝 Connect with Me!
 <div align="center">
 
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_ID]">
+<a href="https://www.linkedin.com/in/janani2309/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/[YOUR_LEETCODE_ID]">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://[YOUR_WEBSITE].vercel.app">
+
+<a href="https://your-portfolio-site.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:jan2309jr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-**Profile Visitors Count** ![Visitor Count](https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=blueviolet&style=flat-square)
+**Profile Visitors Count** ![Visitor Count](https://komarev.com/ghpvc/?username=jan2309jr&color=blueviolet&style=flat-square)
 
 </div>
+
+
+---
