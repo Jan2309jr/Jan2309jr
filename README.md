@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td width="350">
       <img src="./enderman-rizz.gif" width="300" alt="Enderman Rizz">
@@ -40,7 +40,7 @@
 
 ## 🛠️ My Tech Stack (Local Assets)
 
-### 🌐 Web Development
+### Web Development
 <p>
   <img src="./tech-logo/HTML.svg" width="40" height="40" alt="HTML" />
   <img src="./tech-logo/CSS.svg" width="40" height="40" alt="CSS" />
@@ -50,7 +50,7 @@
   <img src="./tech-logo/Vite-Dark.svg" width="40" height="40" alt="Vite" />
 </p>
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 <p>
   <img src="./tech-logo/Python-Dark.svg" width="40" height="40" alt="Python" />
   <img src="./tech-logo/TensorFlow-Dark.svg" width="40" height="40" alt="TensorFlow" />
@@ -59,7 +59,7 @@
   <img src="./tech-logo/OpenCV-Dark.svg" width="40" height="40" alt="OpenCV" />
 </p>
 
-### 🗄️ Languages & Databases
+### Languages & Databases
 <p>
   <img src="./tech-logo/C.svg" width="40" height="40" alt="C" />
   <img src="./tech-logo/CPP.svg" width="40" height="40" alt="C++" />
@@ -68,7 +68,7 @@
   <img src="./tech-logo/MySQL-Dark.svg" width="40" height="40" alt="MySQL" />
 </p>
 
-### 🔧 Tools & Deployment
+### Tools & Deployment
 <p>
   <img src="./tech-logo/VSCode-Dark.svg" width="40" height="40" alt="VSCode" />
   <img src="./tech-logo/Vercel-Dark.svg" width="40" height="40" alt="Vercel" />
