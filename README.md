@@ -83,25 +83,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/janani2309/">
-  <img src="/contacts/LinkedIn.svg" />
+  <img src="/contacts/LinkedIn.svg" width="40" height="40" alt="linkedin"/>
 </a>
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
-  <img src="./contacts/Discord.svg" />
+  <img src="./contacts/Discord.svg" width="40" height="40" alt="discord"/>
 </a>
 
 <a href="https://your-portfolio-site.vercel.app">
-  <img src="/contacts/Discord.svg" />
+  <img src="/contacts/Discord.svg" width="40" height="40" alt="profile-sit" />
 </a>
 
 <a href="mailto:jan2309jr@gmail.com">
-  <img src="/contacts/Gmail-Dark.svg" />
+  <img src="/contacts/Gmail-Dark.svg" width="40" height="40" alt="mail" />
 </a>
-
-<br><br>
-
-**Profile Visitors Count** ![Visitor Count](https://komarev.com/ghpvc/?username=jan2309jr&color=blueviolet&style=flat-square)
-
-</div>
 
 ---
