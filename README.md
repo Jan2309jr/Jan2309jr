@@ -38,41 +38,43 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tech Stack (Local Assets)
 
 ### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="./tech-logo/HTML.svg" width="40" height="40" alt="HTML" />
+  <img src="./tech-logo/CSS.svg" width="40" height="40" alt="CSS" />
+  <img src="./tech-logo/JavaScript.svg" width="40" height="40" alt="JS" />
+  <img src="./tech-logo/React-Dark.svg" width="40" height="40" alt="React" />
+  <img src="./tech-logo/TailwindCSS-Dark.svg" width="40" height="40" alt="Tailwind" />
+  <img src="./tech-logo/Vite-Dark.svg" width="40" height="40" alt="Vite" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="./tech-logo/Python-Dark.svg" width="40" height="40" alt="Python" />
+  <img src="./tech-logo/TensorFlow-Dark.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="./tech-logo/PyTorch-Dark.svg" width="40" height="40" alt="PyTorch" />
+  <img src="./tech-logo/ScikitLearn-Dark.svg" width="40" height="40" alt="ScikitLearn" />
+  <img src="./tech-logo/OpenCV-Dark.svg" width="40" height="40" alt="OpenCV" />
 </p>
 
 ### 🗄️ Languages & Databases
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="./tech-logo/C.svg" width="40" height="40" alt="C" />
+  <img src="./tech-logo/CPP.svg" width="40" height="40" alt="C++" />
+  <img src="./tech-logo/Java-Dark.svg" width="40" height="40" alt="Java" />
+  <img src="./tech-logo/MongoDB.svg" width="40" height="40" alt="MongoDB" />
+  <img src="./tech-logo/MySQL-Dark.svg" width="40" height="40" alt="MySQL" />
 </p>
 
-### 🔧 Tools & Others
+### 🔧 Tools & Deployment
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="./tech-logo/VSCode-Dark.svg" width="40" height="40" alt="VSCode" />
+  <img src="./tech-logo/Vercel-Dark.svg" width="40" height="40" alt="Vercel" />
+  <img src="./tech-logo/Netlify-Dark.svg" width="40" height="40" alt="Netlify" />
+  <img src="./tech-logo/Docker.svg" width="40" height="40" alt="Docker" />
+  <img src="./tech-logo/Firebase-Dark.svg" width="40" height="40" alt="Firebase" />
 </p>
 
 ---
