@@ -1,13 +1,4 @@
-<div align="center">
-
-# 👋 Hi there, I'm Janani!
-### ✨ Aspiring ML Engineer | Web Developer | Tech Enthusiast ✨
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20World&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Crafting+Seamless+UX;Learning+Something+New+Daily;Web+Dev+%2B+Machine+Learning)](https://git.io/typing-svg)
-
-</div>
+<div class="tenor-gif-embed" data-postid="162776182917055484" data-share-method="host" data-aspect-ratio="1.11161" data-width="100%"><a href="https://tenor.com/view/enderman-rizz-stare-minecraft-gif-162776182917055484">Enderman Rizz GIF</a>from <a href="https://tenor.com/search/enderman-gifs">Enderman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
