@@ -13,17 +13,14 @@
 
 ---
 
----
-
-## 📖 About Me: The Janani "Documentation"
+## 📖 About Me:
 
 <table border="0">
   <tr>
     <td width="50%">
       <h3>✅ Pros</h3>
       <ul>
-        <li><b>ML Wizard:</b> Can turn messy data into meaningful insights.</li>
-        <li><b>React Ninja:</b> Builds UIs that are actually responsive.</li>
+        <li><b>ML Wizard:</b> Can turn messy data into meaningful insights.</li>\
         <li><b>Bug Hunter:</b> Won't sleep until that one extra semi-colon is found.</li>
         <li><b>Learning Machine:</b> Acquires new tech stacks faster than a <code>pip install</code>.</li>
       </ul>
@@ -32,7 +29,6 @@
       <h3>⚠️ Cons</h3>
       <ul>
         <li><b>Dark Mode Addict:</b> Might hiss if forced to use a light-themed IDE.</li>
-        <li><b>Coffee Dependent:</b> Logic gates may fail if caffeine levels are low.</li>
         <li><b>Optimization Freak:</b> Will spend 3 hours to automate a 30-second task.</li>
         <li><b>Tab Hoarder:</b> 50+ Chrome tabs open is a "minimalist" setup.</li>
       </ul>
@@ -40,9 +36,6 @@
   </tr>
 </table>
 
-> **Current Objective:** Bridging the gap between intelligent ML backends and stunning Web frontends. 🚀
-
----
 ---
 
 ## 🛠️ My Tech Stack
