@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./enderman-gif.gif" width="300" alt="Enderman Rizz">
+  <img src="enderman-gif.gif" width="300" alt="Enderman Rizz">
 
   <h1>👋 Hi there, I'm Janani!</h1>
   <h3>✨ Aspiring ML Engineer | Web Developer ✨</h3>
