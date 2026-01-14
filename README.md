@@ -6,8 +6,7 @@
     <td>
       <h1>👋 I'm Janani!</h1>
       <h3>✨ Aspiring ML Engineer | Web Developer ✨</h3>
-      <p>Building intelligent systems and seamless user experiences.</p>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=ML+Engineering;Full+Stack+Development;Data+Visualization" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=ML+Engineering;Full+Stack+Development;Data+Analysis;Explorative+Data+Ananlysis" alt="Typing SVG" />
     </td>
   </tr>
 </table>
