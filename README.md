@@ -86,7 +86,7 @@
   <img src="/contacts/LinkedIn.svg" width="40" height="40" alt="linkedin"/>
 </a>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<a href="https://discord.com/users/839759857867685909">
   <img src="./contacts/Discord.svg" width="40" height="40" alt="discord"/>
 </a>
 
