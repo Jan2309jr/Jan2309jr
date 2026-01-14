@@ -1,11 +1,16 @@
-<div align="center">
-
-  <img src="./enderman-rizz.gif" width="300" alt="Enderman Rizz">
-
-  <h1>👋 Hi there, I'm Janani!</h1>
-  <h3>✨ Aspiring ML Engineer | Web Developer ✨</h3>
-
-</div>
+<table border="0">
+  <tr>
+    <td width="350">
+      <img src="./enderman-rizz.gif" width="300" alt="Enderman Rizz">
+    </td>
+    <td>
+      <h1>👋 I'm Janani!</h1>
+      <h3>✨ Aspiring ML Engineer | Web Developer ✨</h3>
+      <p>Building intelligent systems and seamless user experiences.</p>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=ML+Engineering;Full+Stack+Development;Data+Visualization" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 ---
 
