@@ -79,15 +79,6 @@
 
 ---
 
-## ⏳ Coding Activity (WakaTime)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[YOUR_USERNAME]&theme=radical&layout=compact" alt="WakaTime" />
-</div>
-
----
-
----
-
 ## 🤝 Connect with Me!
 <div align="center">
 
@@ -112,6 +103,5 @@
 **Profile Visitors Count** ![Visitor Count](https://komarev.com/ghpvc/?username=jan2309jr&color=blueviolet&style=flat-square)
 
 </div>
-
 
 ---
