@@ -1,6 +1,11 @@
-<img src="https://media1.tenor.com/m/mbGb83HKIiAAAAC/enderman-rizz-stare.gif" width="300" alt="Enderman Rizz">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Crafting+Seamless+UX;Web+Dev+%2B+Machine+Learning" alt="Typing SVG" />
+  <img src="./enderman-rizz-stare.gif" width="300" alt="Enderman Rizz">
+
+  <h1>👋 Hi there, I'm Janani!</h1>
+  <h3>✨ Aspiring ML Engineer | Web Developer ✨</h3>
+
+</div>
 
 ---
 
