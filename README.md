@@ -79,22 +79,29 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+---
+
+## 📊 My GitHub Stats
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=radical&no-bg=true&margin-w=15" alt="trophy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jan2309jr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Janani's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan2309jr&layout=compact&theme=radical" alt="Janani's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jan2309jr&theme=radical" alt="Janani's Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jan2309jr&theme=radical&layout=compact" alt="WakaTime Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jan2309jr&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical" alt="streak stats" />
-</div>
 
 ---
 
