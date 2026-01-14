@@ -83,19 +83,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/janani2309/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="/contacts/LinkedIn.svg" />
 </a>
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="./contacts/Discord.svg" />
 </a>
 
 <a href="https://your-portfolio-site.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="/contacts/Discord.svg" />
 </a>
 
 <a href="mailto:jan2309jr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="/contacts/Gmail-Dark.svg" />
 </a>
 
 <br><br>
