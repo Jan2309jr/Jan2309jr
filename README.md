@@ -90,7 +90,6 @@
   <img src="./contacts/Discord.svg" width="40" height="40" alt="discord"/>
 </a>
 
-
 <a href="mailto:jan2309jr@gmail.com">
   <img src="/contacts/Gmail-Dark.svg" width="40" height="40" alt="mail" />
 </a>
