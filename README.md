@@ -85,6 +85,15 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan2309jr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/repos/count/Jan2309jr?color=7aa2f7&label=Total%20Repositories&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=7aa2f7&label=Total%20Contributions&query=%24.total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2FJan2309jr.json&style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jan2309jr&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🤝 Connect with Me!
