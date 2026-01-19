@@ -80,18 +80,39 @@
 ---
 
 ## 🤝 Connect with Me!
-<div align="center">
+<div align="center" style="display:flex; gap:20px;">
 
-<a href="https://www.linkedin.com/in/janani2309/">
-  <img src="/contacts/LinkedIn.svg" width="40" height="40" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/janani2309/" class="icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="https://discord.com/users/839759857867685909">
-  <img src="./contacts/Discord.svg" width="40" height="40" alt="discord"/>
+<a href="https://discord.com/users/839759857867685909" class="icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" />
 </a>
 
-<a href="mailto:jan2309jr@gmail.com">
-  <img src="/contacts/Gmail-Dark.svg" width="40" height="40" alt="mail" />
+<a href="mailto:jan2309jr@gmail.com" class="icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
+
+</div>
+
+<style>
+.icon img {
+  width: 42px;
+  transition: transform 0.4s ease;
+  animation: float 3s ease-in-out infinite;
+}
+
+.icon img:hover {
+  transform: scale(1.25) rotate(5deg);
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
 
 ---
