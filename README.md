@@ -85,15 +85,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan2309jr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jan2309jr's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/repos/count/Jan2309jr?color=7aa2f7&label=Total%20Repositories&logo=github&style=for-the-badge" alt="Repo Count" />
-  <img src="https://img.shields.io/github/stars/Jan2309jr?color=7aa2f7&label=Total%20Stars&logo=github&style=for-the-badge" alt="Stars Count" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jan2309jr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me!
