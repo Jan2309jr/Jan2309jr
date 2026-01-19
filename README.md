@@ -1,15 +1,11 @@
-<table border="0">
-  <tr>
-    <td width="350">
-      <img src="./enderman-rizz.gif" width="300" alt="Enderman Rizz">
-    </td>
-    <td>
-      <h1>👋 I'm Janani!</h1>
-      <h3>✨ Aspiring ML Engineer | Web Developer ✨</h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=ML+Engineering;Full+Stack+Development;Data+Analysis;Explorative+Data+Ananlysis" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="./enderman-rizz.gif" width="300" alt="Enderman Rizz" align="left" style="margin-right: 20px;">
+  <br>
+  <h1>👋 I'm Janani!</h1>
+  <h3>✨ Aspiring ML Engineer | Web Developer ✨</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=ML+Engineering;Full+Stack+Development;Data+Analysis;Explorative+Data+Ananlysis" alt="Typing SVG" />
+</p>
+<br clear="left"/>
 
 ---
 
@@ -83,10 +79,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jan2309jr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan2309jr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jan2309jr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
