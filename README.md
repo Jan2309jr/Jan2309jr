@@ -89,10 +89,6 @@
   <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jan2309jr&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jan2309jr&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me!
