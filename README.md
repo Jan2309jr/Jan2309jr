@@ -3,7 +3,7 @@
     <td width="320" valign="top">
       <img src="./enderman-rizz.gif" width="300" alt="Enderman Rizz">
     </td>
-    <td valign="top">
+    <td valign="top"> 
       <h1>👋 I'm Janani!</h1>
       <h3>✨ Aspiring ML Engineer | Web Developer ✨</h3>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=ML+Engineering;Full+Stack+Development;Data+Analysis;Explorative+Data+Ananlysis" alt="Typing SVG" />
