@@ -1,4 +1,4 @@
- <table border="0"> 
+  <table border="0"> 
   <tr> 
     <td width="320" valign="top">
       <img src="./enderman-rizz.gif" width="300" alt="Enderman Rizz">
