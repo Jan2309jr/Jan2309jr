@@ -91,18 +91,22 @@
 
 <a href="https://portfolio-website-fjfv.vercel.app/">
   <img src="profile.png" width="40" height="40" alt="discord"/>
+   Portfolio Website
 </a>
 
 <a href="https://www.linkedin.com/in/janani2309/">
   <img src="/contacts/LinkedIn.svg" width="40" height="40" alt="linkedin"/>
+   Linkedin
 </a>
 
 <a href="https://discord.com/users/839759857867685909">
   <img src="./contacts/Discord.svg" width="40" height="40" alt="discord"/>
+   Discord
 </a>
 
 <a href="mailto:jan2309jr@gmail.com">
   <img src="/contacts/Gmail-Dark.svg" width="40" height="40" alt="mail" />
+   Mail
 </a>
 
 ---
