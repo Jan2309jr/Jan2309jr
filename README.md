@@ -89,6 +89,10 @@
 ## 🤝 Connect with Me!
 <div align="center">
 
+<a href="https://portfolio-website-fjfv.vercel.app/">
+  <img src="./contacts/Discord.svg" width="40" height="40" alt="discord"/>
+</a>
+
 <a href="https://www.linkedin.com/in/janani2309/">
   <img src="/contacts/LinkedIn.svg" width="40" height="40" alt="linkedin"/>
 </a>
