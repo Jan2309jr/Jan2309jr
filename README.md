@@ -90,7 +90,7 @@
 <div align="center">
 
 <a href="https://portfolio-website-fjfv.vercel.app/">
-  <img src="./contacts/Discord.svg" width="40" height="40" alt="discord"/>
+  <img src="profile.png" width="40" height="40" alt="discord"/>
 </a>
 
 <a href="https://www.linkedin.com/in/janani2309/">
