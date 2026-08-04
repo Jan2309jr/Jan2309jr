@@ -89,7 +89,7 @@
 ## 🤝 Connect with Me!
 <div align="center">
 
-<a href="[https://portfolio-website-fjfv.vercel.app/](https://janani-sigma.vercel.app/)">
+<a href="https://janani-sigma.vercel.app/">
   <img src="profile.png" width="40" height="40" alt="discord"/>
    Portfolio Website
 </a>
